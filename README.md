@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ehsanazizi-spire
+- 👋 Hi, I’m Ehsan Azizi
 - 👀 I’m interested in learning more about space and its wonders!
 - 🌱 I’m currently learning a lot!
 - 💞️ I’m looking to collaborate on automating stuff.
